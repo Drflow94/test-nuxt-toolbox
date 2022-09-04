@@ -1,7 +1,7 @@
 describe('Testing form', () => {
 
   const name = 'Testing'
-  const email = 'testing@testing.com'
+  const email = 'drflow@telegmail.com'
   const feedback = 'Testing form using Cypress'
 
   beforeEach(() => {
